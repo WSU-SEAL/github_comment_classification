@@ -1,0 +1,3 @@
+gpt_oneshot.csv: MCC = 0.3648
+Llama_oneshot.csv: MCC = 0.3430
+mistraloneshot.csv: MCC = 0.3061

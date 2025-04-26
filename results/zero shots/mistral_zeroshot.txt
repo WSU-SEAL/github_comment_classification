@@ -1,0 +1,96 @@
+Evaluation Report:
+Category: Anti-LGBTQ+
+  Actual: 40
+  Model Predicted: 83
+  True Positives: 27
+  Precision: 0.33
+  Recall: 0.68
+  F1 Score: 0.44
+
+Category: Stereotyping
+  Actual: 40
+  Model Predicted: 183
+  True Positives: 21
+  Precision: 0.11
+  Recall: 0.53
+  F1 Score: 0.19
+
+Category: Sexual harassment
+  Actual: 40
+  Model Predicted: 87
+  True Positives: 7
+  Precision: 0.08
+  Recall: 0.17
+  F1 Score: 0.11
+
+Category: Sexual objectification
+  Actual: 40
+  Model Predicted: 58
+  True Positives: 7
+  Precision: 0.12
+  Recall: 0.17
+  F1 Score: 0.14
+
+Category: Maternal insults
+  Actual: 40
+  Model Predicted: 55
+  True Positives: 11
+  Precision: 0.20
+  Recall: 0.28
+  F1 Score: 0.23
+
+Category: Physical appearance
+  Actual: 40
+  Model Predicted: 59
+  True Positives: 15
+  Precision: 0.25
+  Recall: 0.38
+  F1 Score: 0.30
+
+Category: Threats of violence
+  Actual: 40
+  Model Predicted: 84
+  True Positives: 29
+  Precision: 0.35
+  Recall: 0.72
+  F1 Score: 0.47
+
+Category: Discredit
+  Actual: 40
+  Model Predicted: 66
+  True Positives: 5
+  Precision: 0.08
+  Recall: 0.12
+  F1 Score: 0.09
+
+Category: Damning
+  Actual: 40
+  Model Predicted: 17
+  True Positives: 6
+  Precision: 0.35
+  Recall: 0.15
+  F1 Score: 0.21
+
+Category: Victim blaming
+  Actual: 32
+  Model Predicted: 0
+  True Positives: 0
+  Precision: 0.00
+  Recall: 0.00
+  F1 Score: 0.00
+
+Category: Dominance
+  Actual: 40
+  Model Predicted: 115
+  True Positives: 20
+  Precision: 0.17
+  Recall: 0.50
+  F1 Score: 0.26
+
+Category: Neutral
+  Actual: 1000
+  Model Predicted: 947
+  True Positives: 845
+  Precision: 0.89
+  Recall: 0.84
+  F1 Score: 0.87

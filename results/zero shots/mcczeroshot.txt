@@ -1,0 +1,3 @@
+gpt4o_zeroshot.csv: MCC = 0.3495
+Llama_zeroshot.csv: MCC = 0.3542
+mistral_zeroshot.csv: MCC = 0.2702
