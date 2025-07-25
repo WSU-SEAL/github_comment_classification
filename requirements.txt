@@ -1,0 +1,6 @@
+pandas
+scikit-learn
+python-dotenv
+azure-ai-inference
+azure-core
+together
